@@ -5,7 +5,7 @@ Console.WriteLine("Введите первое число");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите второе число");
 int num2 = Convert.ToInt32(Console.ReadLine());
-if (num2 % num1 == 0 || num1 % num2 == 0)
+if (num2 = num1 * num1 || num1 = num2 * num2)
 {
     Console.WriteLine("Является");
 }
